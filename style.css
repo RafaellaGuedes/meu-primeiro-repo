@@ -1,5 +1,5 @@
 .card {
-    background-color: violet;
+    background-color: rgb(119, 216, 216);
     width: 500px;
     height: fit-content;
     border-radius: 25px;
@@ -15,5 +15,5 @@
 }
 
 .main-color{
-    color: blue;
+    color: rgb(7, 7, 83);
 }
